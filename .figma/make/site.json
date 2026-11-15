@@ -1,0 +1,10 @@
+{
+  "description": "Showcases an app logo, helping visitors quickly recognize the brand and its visual identity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
